@@ -8,23 +8,23 @@ Este projeto é um sistema simples para controlar pedidos de um restaurante. Nel
 
 Papéis do Scrum:
 
-Product Owner: decide o que será feito no sistema.
-Scrum Master: ajuda a organizar o trabalho e garantir que o Scrum seja seguido.
-Time de Desenvolvimento: desenvolve o sistema.
+1. Product Owner: decide o que será feito no sistema.
+2. Scrum Master: ajuda a organizar o trabalho e garantir que o Scrum seja seguido.
+3. Time de Desenvolvimento: desenvolve o sistema.
 
 Eventos do Scrum:
 
-Sprint: período de tempo para fazer as tarefas.
-Sprint Planning: planejamento do que será feito na sprint.
-Daily Scrum: reunião rápida para ver como está o andamento.
-Sprint Review: mostrar o que foi feito.
-Sprint Retrospective: ver o que deu certo e o que pode melhorar.
+1. Sprint: período de tempo para fazer as tarefas.
+2. Sprint Planning: planejamento do que será feito na sprint.
+3. Daily Scrum: reunião rápida para ver como está o andamento.
+4. Sprint Review: mostrar o que foi feito.
+5. Sprint Retrospective: ver o que deu certo e o que pode melhorar.
 
 Artefatos do Scrum:
 
-Product Backlog: lista de tudo que o sistema precisa ter.
-Sprint Backlog: tarefas escolhidas para a sprint.
-Incremento: o que foi desenvolvido no final da sprint.
+1. Product Backlog: lista de tudo que o sistema precisa ter.
+2. Sprint Backlog: tarefas escolhidas para a sprint.
+3. Incremento: o que foi desenvolvido no final da sprint.
 
 Product Backlog:
 
